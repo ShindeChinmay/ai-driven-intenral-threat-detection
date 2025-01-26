@@ -1,0 +1,11 @@
+user,action,timestamp,hour,day_of_week,action_count,anomaly_score
+user1,login,2025-01-26 14:23:45.123456,14,6,2,1
+user3,file_access,2025-01-26 08:15:30.234567,8,6,2,1
+user2,email_send,2025-01-25 22:05:20.345678,22,5,2,1
+user5,file_download,2025-01-25 14:55:10.456789,14,5,2,1
+user4,logout,2025-01-25 07:45:00.567890,7,5,2,1
+user3,login,2025-01-24 23:35:50.678901,23,4,2,1
+user1,file_access,2025-01-24 17:26:40.789012,17,4,2,1
+user2,email_send,2025-01-24 11:17:30.890123,11,4,2,1
+user5,file_download,2025-01-24 05:08:20.901234,5,4,2,1
+user4,logout,2025-01-23 22:59:10.012345,22,3,2,-1
